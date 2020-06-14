@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/react-microInteraction/static/css/main.32fc3453.chunk.css",
+    "main.js": "/react-microInteraction/static/js/main.8773ddd5.chunk.js",
+    "main.js.map": "/react-microInteraction/static/js/main.8773ddd5.chunk.js.map",
+    "runtime-main.js": "/react-microInteraction/static/js/runtime-main.40217ac3.js",
+    "runtime-main.js.map": "/react-microInteraction/static/js/runtime-main.40217ac3.js.map",
+    "static/js/2.e8ae95fa.chunk.js": "/react-microInteraction/static/js/2.e8ae95fa.chunk.js",
+    "static/js/2.e8ae95fa.chunk.js.map": "/react-microInteraction/static/js/2.e8ae95fa.chunk.js.map",
+    "index.html": "/react-microInteraction/index.html",
+    "precache-manifest.8aa9593de48d6786ab50aadc9046903c.js": "/react-microInteraction/precache-manifest.8aa9593de48d6786ab50aadc9046903c.js",
+    "service-worker.js": "/react-microInteraction/service-worker.js",
+    "static/css/main.32fc3453.chunk.css.map": "/react-microInteraction/static/css/main.32fc3453.chunk.css.map",
+    "static/js/2.e8ae95fa.chunk.js.LICENSE.txt": "/react-microInteraction/static/js/2.e8ae95fa.chunk.js.LICENSE.txt",
+    "static/media/chevron.148da1c4.svg": "/react-microInteraction/static/media/chevron.148da1c4.svg",
+    "static/media/close.b0200bf7.svg": "/react-microInteraction/static/media/close.b0200bf7.svg",
+    "static/media/down-arrow.492acdf2.svg": "/react-microInteraction/static/media/down-arrow.492acdf2.svg",
+    "static/media/product.png": "/react-microInteraction/static/media/product.a5de5125.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.40217ac3.js",
+    "static/js/2.e8ae95fa.chunk.js",
+    "static/css/main.32fc3453.chunk.css",
+    "static/js/main.8773ddd5.chunk.js"
+  ]
+}
